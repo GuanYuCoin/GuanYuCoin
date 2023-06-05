@@ -1,0 +1,17 @@
+{
+  "main": "./contracts/NewCoin.sol",
+  "deploy": "./build/contracts/NewCoin.json",
+  "framework": "truffle",
+  "npmClient": "npm",
+  "compilers": {
+    "solc": "0.8.6",
+    "truffle": "v5.4.3",
+    "evmVersion": "berlin"
+  },
+  "linter": "solhint",
+  "editor": {
+    "fontFamily": "Hack",
+    "fontSize": "16px",
+    "ligatures": false
+  }
+}
