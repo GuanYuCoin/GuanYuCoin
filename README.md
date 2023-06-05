@@ -1,4 +1,4 @@
-# Cocker Spaniel Token
+# GuanYu Coin
 
 BSC / Solidity
 

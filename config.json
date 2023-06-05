@@ -1,6 +1,6 @@
 {
-  "main": "./contracts/NewCoin.sol",
-  "deploy": "./build/contracts/NewCoin.json",
+  "main": "./contracts/GuanYuCoin.sol",
+  "deploy": "./build/contracts/GuanYuCoin.json",
   "framework": "truffle",
   "npmClient": "npm",
   "compilers": {
